@@ -20,7 +20,8 @@ Upload the train.csv (hystorical data to be trained) file, throught the web page
 Click the "Submit" button to initiate training.
 Wait for few minutes. The result.csv file will automatically download.
 
-Link for project video- https://www.youtube.com/watch?v=YAodXxWqkQM
+Link for project video- 1) https://www.youtube.com/watch?v=YAodXxWqkQM
+                        2) https://www.youtube.com/watch?v=Erwu8kggJqU
 
 You can also try the prediction.py on the same train dataset for predictions corresponding to a centre-meal id pair.
 
