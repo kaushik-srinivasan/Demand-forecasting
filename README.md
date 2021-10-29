@@ -1,5 +1,5 @@
 # Demand-forecasting
-IBM hack challenge 2020
+IBM Project 2020
 
 Developed custom neural networks for real-time training.
 Reshaped training data to conform with LSTM input shape.
@@ -19,9 +19,6 @@ Run app.py and copy the local host IP Address (127.0.0.1:#port number displayed)
 Upload the train.csv (hystorical data to be trained) file, throught the web page.
 Click the "Submit" button to initiate training.
 Wait for few minutes. The result.csv file will automatically download.
-
-Link for project video- 1) https://www.youtube.com/watch?v=YAodXxWqkQM
-                        2) https://www.youtube.com/watch?v=Erwu8kggJqU
 
 You can also try the prediction.py on the same train dataset for predictions corresponding to a centre-meal id pair.
 
